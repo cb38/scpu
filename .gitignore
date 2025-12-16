@@ -1,0 +1,7 @@
+target/*
+tmp/*
+project/*
+.b*
+.m*
+sim*
+hw/gen

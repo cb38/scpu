@@ -1,0 +1,25 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "C_Cpp.default.configurationName": "Linux",
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "files.associations": {
+        "*.sv": "verilog",
+        "*.svh": "verilog"
+    },
+    "editor.formatOnSave": true,
+    "[systemverilog]": {
+        "editor.defaultFormatter": "mshr-h.veriloghdl"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "hw/gen": true,
+        "hw/gen/**": true
+    }
+}
