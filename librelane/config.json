@@ -1,0 +1,14 @@
+{
+  "DESIGN_NAME": "CpuID",
+  "ERROR_ON_LINTER_ERRORS": "False",
+  "ERROR_ON_LINTER_TIMING_CONSTRUCTS": "False",
+  "VERILOG_FILES": [
+    "dir::cpu_pkg.v",
+    "dir::CpuID.v",
+    "dir::sram.v"
+  ],
+  "CLOCK_PERIOD": 25,
+  "CLOCK_PORT": "clk",
+  "PNR_SDC_FILE": "dir::impl.sdc",
+  "SIGNOFF_SDC_FILE": "dir::signoff.sdc"
+}
