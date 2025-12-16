@@ -12,3 +12,6 @@ now just type make
 make
 ```
 
+to view waveform use VScode and either
+- surfer extension 
+- vaporview extension 
